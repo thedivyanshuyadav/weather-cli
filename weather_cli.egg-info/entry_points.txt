@@ -1,0 +1,3 @@
+[console_scripts]
+weather = weather.__main__:main
+
