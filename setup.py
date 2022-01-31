@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="weather-cli",
+    name="weather",
     version="1.0.0",
     description="It gives the weather information of given city.",
     long_description=README,
